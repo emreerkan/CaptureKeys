@@ -1,0 +1,1 @@
+A jQuery plugin which captures key strokes and writes in designated input field event it has no focus. Also it does not steal key strokes from another input field or textarea.
