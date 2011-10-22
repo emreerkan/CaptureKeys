@@ -1,1 +1,13 @@
-A jQuery plugin which captures key strokes and writes in designated input field event it has no focus. Also it does not steal key strokes from another input field or textarea.
+jQuery captureKeys 1.0
+http://www.karalamalar.net/
+
+Copyright (c) 2009 İzzet Emre Erkan
+Licensed under Creative Commons Attribution-Share Alike 3.0 Unported License
+http://creativecommons.org/licenses/by-sa/3.0/
+
+--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--
+
+A jQuery plugin which captures key strokes and writes in designated input field even
+it has no focus. Also it does not steal key strokes from another input field or textarea.
+
+--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--==--
