@@ -20,6 +20,13 @@
       }
     };
   $.fn.captureKeys = function () {
+    ///	<summary>
+    ///		A jQuery plugin which captures key strokes and writes
+    ///   in designated input field even it has no focus. Also
+    ///   it does not steal key strokes from another input field
+    ///   or textarea.
+    ///	</summary>
+    ///	<returns type="jQuery" />
     return this.each(function (i) {
       if (i === 0) {
         inputField = $(this);
